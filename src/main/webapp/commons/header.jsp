@@ -13,7 +13,7 @@
 				<input id="input" type="text" placeholder="${q}" />
 			</c:when>
 			<c:otherwise>
-				<input id="input" type="text" placeholder="请输入您要搜索的内容" />
+				<input id="input" type="text" placeholder="请输入您要搜索的内容" value="${key}"/>
 			</c:otherwise>
 		</c:choose>
 		   <div class="seek" tabindex="-1">

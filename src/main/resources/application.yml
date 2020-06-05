@@ -8,9 +8,9 @@ spring:
         url: jdbc:mysql://127.0.0.1:3306/pd_store?useUnicode=true&characterEncoding=UTF-8
         username: root
         password: root
-#    data:
-#       solr:   #注意修改ip地址
-#           host: http://192.168.64.170:8983/solr/pd
+    data:
+       solr:   #注意修改ip地址
+           host: http://192.168.180.161:8983/solr/pd
 
 mybatis:
   #typeAliasesPackage: cn.tedu.ssm.pojo

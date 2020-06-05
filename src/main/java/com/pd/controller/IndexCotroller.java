@@ -6,15 +6,14 @@ import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 public class IndexCotroller {
-//http://www.ajstore.com/index.html
-	@RequestMapping("/")
-	public ModelAndView showIndex()
-	{
-		System.out.println("---------------index");
-		ModelAndView modelAndView=new ModelAndView();
-		modelAndView.setViewName("/index.jsp");
-		return modelAndView;
-	}
-	
-	
+    //http://www.ajstore.com/index.html
+    @RequestMapping("/")
+    public ModelAndView showIndex() {
+
+        ModelAndView modelAndView = new ModelAndView();
+        modelAndView.setViewName("/index.jsp");
+        return modelAndView;
+    }
+
+
 }

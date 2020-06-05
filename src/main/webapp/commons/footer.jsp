@@ -21,45 +21,45 @@ pageEncoding="UTF-8"%>
 </div>
 <!-- 页面底部-->
 <div class="foot_bj">
-    <div id="foot">
-        <div class="lf">
-             <p class="footer1"><img src="/images/server/images/portal/footer/logo.png" alt="" class=" footLogo"/></p>
-             <p class="footer2"><img src="/images/server/images/portal/footer/footerFont.png"alt=""/></p>
-        </div>
-     
-        <div class="foot_left" class="lf">
-            <ul>
-                <li><a href="#"><h3>买家帮助</h3></a></li>
-                <li><a href="#">新手指南</a></li>
-                <li><a href="#">服务保障</a></li>
-                <li><a href="#">常见问题</a></li>
-            </ul>
-            <ul>
-                <li><a href="#"><h3>商家帮助</h3></a></li>
-                <li><a href="#">商家入驻</a></li>
-                <li><a href="#">商家后台</a></li>
-            </ul>
-            <ul>
-                <li><a href="#"><h3>关于我们</h3></a></li>
-                <li><a href="#">关于拼多</a></li>
-                <li><a href="#">联系我们</a></li>
-                <li>
-                    <img src="/images/server/images/portal/footer/wechat.png" alt=""/>
-                    <img src="/images/server/images/portal/footer/sinablog.png" alt=""/>
-                </li>
-            </ul>
-        </div>
-        <div class="service">
-            <p>商城客户端</p>
-            <img src="/images/server/images/portal/footer/ios.png" class="lf">
-            <img src="/images/server/images/portal/footer/android.png" alt="" class="lf"/>
-        </div>
-        <div class="download">
-            <img src="/images/server/images/portal/footer/erweima.png">
-        </div>
-    </div>
-     <!-- 页面底部-备案号 #footer -->
-     <div class="record" align="center">
-         2001-2016 拼多集团有限公司版权所有 京ICP证8000853号-56
-     </div>
+<%--    <div id="foot">--%>
+<%--        <div class="lf">--%>
+<%--             <p class="footer1"><img src="/images/server/images/portal/footer/logo.png" alt="" class=" footLogo"/></p>--%>
+<%--             <p class="footer2"><img src="/images/server/images/portal/footer/footerFont.png"alt=""/></p>--%>
+<%--        </div>--%>
+<%--     --%>
+<%--        <div class="foot_left" class="lf">--%>
+<%--            <ul>--%>
+<%--                <li><a href="#"><h3>买家帮助</h3></a></li>--%>
+<%--                <li><a href="#">新手指南</a></li>--%>
+<%--                <li><a href="#">服务保障</a></li>--%>
+<%--                <li><a href="#">常见问题</a></li>--%>
+<%--            </ul>--%>
+<%--            <ul>--%>
+<%--                <li><a href="#"><h3>商家帮助</h3></a></li>--%>
+<%--                <li><a href="#">商家入驻</a></li>--%>
+<%--                <li><a href="#">商家后台</a></li>--%>
+<%--            </ul>--%>
+<%--            <ul>--%>
+<%--                <li><a href="#"><h3>关于我们</h3></a></li>--%>
+<%--                <li><a href="#">关于拼多</a></li>--%>
+<%--                <li><a href="#">联系我们</a></li>--%>
+<%--                <li>--%>
+<%--                    <img src="/images/server/images/portal/footer/wechat.png" alt=""/>--%>
+<%--                    <img src="/images/server/images/portal/footer/sinablog.png" alt=""/>--%>
+<%--                </li>--%>
+<%--            </ul>--%>
+<%--        </div>--%>
+<%--        <div class="service">--%>
+<%--            <p>商城客户端</p>--%>
+<%--            <img src="/images/server/images/portal/footer/ios.png" class="lf">--%>
+<%--            <img src="/images/server/images/portal/footer/android.png" alt="" class="lf"/>--%>
+<%--        </div>--%>
+<%--        <div class="download">--%>
+<%--            <img src="/images/server/images/portal/footer/erweima.png">--%>
+<%--        </div>--%>
+<%--    </div>--%>
+<%--     <!-- 页面底部-备案号 #footer -->--%>
+<%--     <div class="record" align="center">--%>
+<%--         --%>
+<%--     </div>--%>
 </div>
